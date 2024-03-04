@@ -6,6 +6,6 @@ public class CreateAndPrintAhashMap {
         HashMap<String, Integer> nameAndAge = new HashMap();
         nameAndAge.put("Abdullah", 25);
 
-        System.out.println(nameAndAge);
+        System.out.println(nameAndAge); 
     }
 }
