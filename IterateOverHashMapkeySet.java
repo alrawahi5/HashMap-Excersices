@@ -10,6 +10,6 @@ public class IterateOverHashMapkeySet {
         nameAndAge.put(774, "Yousuf");
         nameAndAge.put(775, "Anwar");
 
-        System.out.println(nameAndAge.entrySet());
+        System.out.println(nameAndAge.keySet());
     }
 }
